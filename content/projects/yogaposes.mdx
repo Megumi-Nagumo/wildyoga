@@ -1,0 +1,52 @@
+---
+title: 'Yoga Poses to Learn'
+summary: 'MDX is a powerful tool that allows you to write JSX in your Markdown...'
+image: '/images/classes/zenpose.jpg'
+author: 'Megumi Nagumo'
+publishedAt: '2024-08-31'
+---
+
+# Introduction to MDX
+
+MDX (Markdown + JSX) is a format that lets you seamlessly write JSX in your Markdown files. This allows you to combine the simplicity of Markdown with the flexibility of React components.
+
+## What is MDX?
+
+MDX stands for Markdown with JSX. It allows you to use Markdown for content and embed React components directly in your Markdown files. This gives you the power to create interactive and dynamic documentation, blogs, or other content-heavy applications.
+
+```jsx
+import React from 'react';
+
+const Highlight = ({ children }) => (
+  <span style={{ backgroundColor: 'yellow' }}>{children}</span>
+);
+
+<Highlight>MDX is awesome!</Highlight>;
+```
+
+## Why use MDX?
+
+There are several reasons to use MDX in your projects:
+
+- Enhanced Documentation: With MDX, you can embed interactive components within your documentation.
+
+- Reusable Components: Leverage the power of React to create reusable components that can be used across your Markdown content.
+
+- Flexibility: MDX lets you combine the simplicity of Markdown with the flexibility of JSX, giving you more control over your content's structure and presentation.
+
+<Counter />
+
+## How to use MDX
+
+To start using MDX in your project, follow these steps:
+
+1: Install the necessary packages:
+"npm install next-mdx-remote"
+
+2: Create an MDX file: Create a new .mdx file in your project.
+3: Write your content: Use standard Markdown for content and embed JSX components where needed.
+4: Render MDX content: In your Next.js page, use next-mdx-remote to render the MDX content.
+
+## Conclusion
+
+MDX is a powerful tool for anyone looking to enhance their Markdown content with React components. Whether you're building a blog, documentation, or a content-rich application, MDX provides the flexibility and power you need to create dynamic and interactive content.
