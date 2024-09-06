@@ -1,6 +1,7 @@
 # Wild Yoga
+![screenshot_wildyoga](https://github.com/user-attachments/assets/9c91108e-86f9-4881-83ad-a373101cd5b8)
 
-![screenshot](screenshot_wildyoga.png)
+
 
 Welcome to **Wild Yoga** – a serene space where you can explore the art of yoga and connect with your inner strength and balance. Whether you're a seasoned yogi or just beginning your journey, Wild Yoga has something to offer for everyone.
 
