@@ -1,6 +1,6 @@
 # Wild Yoga
 
-![Wild Yoga]('/images/posts/Screenshot from 2024-09-06 15-06-22.png')
+![screenshot](screenshot_wildyoga.png)
 
 Welcome to **Wild Yoga** – a serene space where you can explore the art of yoga and connect with your inner strength and balance. Whether you're a seasoned yogi or just beginning your journey, Wild Yoga has something to offer for everyone.
 
