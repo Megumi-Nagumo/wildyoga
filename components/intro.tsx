@@ -13,7 +13,7 @@ export default function Intro() {
             </div>
             <div className="relative">
                 <Image
-                    className="flex-1 rounded-lg grayscale"
+                    className="flex-1 rounded-lg"
                     src={morningyoga}
                     alt="Morning Yoga Session"
                     width={175}
